@@ -7,3 +7,4 @@ xhofe/alist:latest
 tomcat:9.0
 eipwork/kuboard:latest
 eipwork/metrics-server:v0.3.7
+openclaw:latest
