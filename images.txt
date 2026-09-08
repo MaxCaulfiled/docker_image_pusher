@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest
+https://github.com/openclaw/openclaw.git
