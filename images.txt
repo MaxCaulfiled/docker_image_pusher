@@ -1,1 +1,1 @@
-https://github.com/openclaw/openclaw.git
+docker.io/library/mysql:8.0
