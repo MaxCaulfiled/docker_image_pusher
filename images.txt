@@ -1,1 +1,1 @@
-registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.9.0
+docker.io/labring/minio-operator:v4.5.5
