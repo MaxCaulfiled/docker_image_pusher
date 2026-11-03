@@ -1,1 +1,1 @@
-docker.io/labring/minio-operator:v4.5.5
+docker.io/labring/mysql:8
